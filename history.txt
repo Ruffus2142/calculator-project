@@ -1,1 +1,1 @@
-Calculator Change History: Version 1.0 - Basic operations. Version 1.1 - Added exponentiation.
+Calculator Change History: Version 1.0 - Basic operations. Version 1.1 - Added exponentiation. Version 1.2 – Improved user interface.
