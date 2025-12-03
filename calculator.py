@@ -64,3 +64,5 @@ while True:
 
     except ValueError:
         print("Помилка: введіть коректні числа!")
+
+# Local change for task 6
