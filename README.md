@@ -24,19 +24,19 @@
 
 1\. Клонувати репозиторій:
 
-&nbsp;  git clone https://github.com/Ruffus2142/calculator-project.git
+   git clone https://github.com/Ruffus2142/calculator-project.git
 
 
 
 2\. Перейти в папку:
 
-&nbsp;  cd calculator-project
+   cd calculator-project
 
 
 
 3\. Запустити програму:
 
-&nbsp;  python main.py
+   python main.py
 
 
 
@@ -58,7 +58,7 @@ print(divide(20, 5))   # 4
 
 \## Документація
 
-Детальний опис функцій доступний у файлі \[DOCUMENTATION.md](DOCUMENTATION.md).
+Детальний опис функцій доступний у файлі \[DOCUMENTATION.md](https://github.com/Ruffus2142/calculator-project/blob/main/DOCUMENTATION.md).
 
 
 
